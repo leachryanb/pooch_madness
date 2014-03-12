@@ -13,8 +13,11 @@
     "test",
     "tests"
   ],
-  "dependencies" : { 
-    "jquery" : "2.1.0",
-    "bootstrap" : "3.0.0" 
+  "dependencies": {
+    "jquery": "2.1.0",
+    "bootstrap": "~3.1.1"
+  },
+  "resolutions": {
+    "bootstrap": "3.0.0"
   }
 }
